@@ -15,7 +15,7 @@
     background: #3a4452;
     padding: 20px;
     border-radius: 10px;
-    margin-bottom: 450px;
+    margin-bottom: 400px;
     margin-right: 120px;
 }
 body {
@@ -39,4 +39,15 @@ body {
     margin-top: 100px;
     font-size: 100px;
     color: green;
+}
+form .display{
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px 0;
+}
+form .display input{
+    text-align: right;
+    flex: 1;
+    font-size: 45px;
+    box-shadow: none;
 }
