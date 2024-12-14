@@ -56,7 +56,7 @@ Clearing the display or removing the last character. </br>
 
 Enter Numbers and Operators: Click the numeric buttons (0-9) and operator buttons (+, -, *, /) to build your calculation. </br>
 
-Pi Button: Use the \u03C0 button to add the value of Pi to your calculation. </br>
+Pi Button: Use the π button to add the value of Pi to your calculation. </br>
 
 Evaluate: Press = to compute the result. </br>
 
